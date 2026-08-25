@@ -1,0 +1,29 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# macOS / OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary test / log artifacts
+*.log
+scratch/
